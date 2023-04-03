@@ -23,6 +23,7 @@ if (list.get(0).equals("a")) {
 
 ```
 Your answer here
+ Output : "Not funny"
 ```
 
 2.What is the output of the following code?
@@ -42,6 +43,7 @@ if (pt2 == pt1) {
 
 ```
 Your answer here
+ Output : "Same object"
 ```
 
 Exercise Two - Pancake
